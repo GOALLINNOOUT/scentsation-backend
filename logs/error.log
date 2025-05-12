@@ -1,0 +1,830 @@
+[11-May-2025 02:04:07 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:04:07 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:04:07 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:04:07 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:04:07 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:04:07 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:04:28 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:04:28 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:04:28 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:04:28 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:04:28 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:04:28 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:04:28 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:04:28 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:04:28 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:04:28 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:04:36 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:04:36 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:04:36 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:04:36 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:04:36 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:04:36 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:04:38 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:04:38 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:04:38 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:04:38 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"offline","isAdmin":true}
+[11-May-2025 02:04:38 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"offline","isAdmin":true}
+[11-May-2025 02:04:40 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:04:40 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:04:40 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:04:40 Europe/Berlin] Received request - Action: start_chat, Is Admin: true
+[11-May-2025 02:04:40 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:04:40 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:04:40 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:04:40 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:04:40 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:04:40 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:04:40 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:04:40 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:04:40 Europe/Berlin] Raw request data: {"action":"start_chat","user_id":"admin","name":"Admin","email":"admin@example.com","isAdmin":true}
+[11-May-2025 02:04:40 Europe/Berlin] Parsed request data: {"action":"start_chat","user_id":"admin","name":"Admin","email":"admin@example.com","isAdmin":true}
+[11-May-2025 02:04:40 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:04:40 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:04:40 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:04:40 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:04:40 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:04:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:04:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:04:46 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:04:46 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:04:46 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:04:46 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:04:46 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:04:50 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:04:50 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:04:50 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:04:50 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:04:50 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:05:00 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:00 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:05:00 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:05:00 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:05:00 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:05:10 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:10 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:05:10 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:05:10 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:05:10 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:05:10 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:14 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:14 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:05:14 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:05:14 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:05:14 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:05:15 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:15 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:05:15 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:05:15 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"offline","isAdmin":true}
+[11-May-2025 02:05:15 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"offline","isAdmin":true}
+[11-May-2025 02:05:16 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:16 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:16 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:16 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:16 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:05:16 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:05:16 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:05:16 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:16 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:05:16 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:16 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:16 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:16 Europe/Berlin] Received request - Action: start_chat, Is Admin: true
+[11-May-2025 02:05:16 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:05:16 Europe/Berlin] Raw request data: {"action":"start_chat","user_id":"admin","name":"Admin","email":"admin@example.com","isAdmin":true}
+[11-May-2025 02:05:16 Europe/Berlin] Parsed request data: {"action":"start_chat","user_id":"admin","name":"Admin","email":"admin@example.com","isAdmin":true}
+[11-May-2025 02:05:17 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:17 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:17 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:21 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:21 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:05:21 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:05:21 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:05:21 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:05:26 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:26 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:05:26 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:05:26 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:05:26 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:05:36 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:36 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:05:36 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:05:36 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:05:36 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:05:40 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:40 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:05:40 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:05:40 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:05:40 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:05:41 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:41 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:05:41 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:05:41 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"offline","isAdmin":true}
+[11-May-2025 02:05:41 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"offline","isAdmin":true}
+[11-May-2025 02:05:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:05:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:05:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:05:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:05:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:43 Europe/Berlin] Received request - Action: start_chat, Is Admin: true
+[11-May-2025 02:05:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:05:43 Europe/Berlin] Raw request data: {"action":"start_chat","user_id":"admin","name":"Admin","email":"admin@example.com","isAdmin":true}
+[11-May-2025 02:05:43 Europe/Berlin] Parsed request data: {"action":"start_chat","user_id":"admin","name":"Admin","email":"admin@example.com","isAdmin":true}
+[11-May-2025 02:05:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:48 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:48 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:05:48 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:05:48 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:05:48 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:05:53 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:05:53 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:05:53 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:05:53 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:05:53 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:06:08 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:06:08 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:06:08 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:06:08 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:06:08 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:06:13 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:06:13 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:06:13 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:06:13 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:06:13 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:06:13 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:06:23 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:06:23 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:06:23 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:06:23 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:06:23 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:06:33 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:06:33 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:06:33 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:06:33 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:06:33 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:06:42 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:06:42 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:06:42 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:06:42 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:06:42 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:06:42 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:06:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:06:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:06:48 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:06:48 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:06:48 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:06:48 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:06:48 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:06:50 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:06:50 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:06:50 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:06:50 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"offline","isAdmin":true}
+[11-May-2025 02:06:50 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"offline","isAdmin":true}
+[11-May-2025 02:06:50 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:06:50 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:06:50 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:06:50 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:06:50 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:06:50 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:06:50 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:06:50 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:06:50 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:06:50 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:06:50 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:06:50 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:06:50 Europe/Berlin] Received request - Action: start_chat, Is Admin: true
+[11-May-2025 02:06:50 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:06:50 Europe/Berlin] Raw request data: {"action":"start_chat","user_id":"admin","name":"Admin","email":"admin@example.com","isAdmin":true}
+[11-May-2025 02:06:50 Europe/Berlin] Parsed request data: {"action":"start_chat","user_id":"admin","name":"Admin","email":"admin@example.com","isAdmin":true}
+[11-May-2025 02:06:51 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:06:51 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:06:51 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:07:00 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:07:00 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:07:00 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:07:00 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:07:00 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:07:02 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:07:02 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:07:02 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:07:02 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:07:02 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:07:11 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:07:11 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:07:11 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:07:11 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:07:11 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:07:21 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:07:21 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:07:21 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:07:21 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:07:21 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:07:21 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:07:31 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:07:31 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:07:31 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:07:31 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:07:31 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:07:41 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:07:41 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:07:41 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:07:41 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:07:41 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:07:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:07:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:07:51 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:07:51 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:07:51 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:07:51 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:07:51 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:07:51 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:07:59 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:07:59 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:07:59 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:07:59 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:07:59 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:08:00 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:00 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:08:00 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:08:00 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:08:00 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:08:03 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:03 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:08:03 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:08:03 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"offline","isAdmin":true}
+[11-May-2025 02:08:03 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"offline","isAdmin":true}
+[11-May-2025 02:08:06 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:06 Europe/Berlin] Received request - Action: start_chat, Is Admin: true
+[11-May-2025 02:08:06 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:08:06 Europe/Berlin] Raw request data: {"action":"start_chat","user_id":"admin","name":"Admin","email":"admin@example.com","isAdmin":true}
+[11-May-2025 02:08:06 Europe/Berlin] Parsed request data: {"action":"start_chat","user_id":"admin","name":"Admin","email":"admin@example.com","isAdmin":true}
+[11-May-2025 02:08:06 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:06 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:06 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:08:06 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:08:06 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:08:06 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:08:06 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:06 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:06 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:06 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:06 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:07 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:07 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:07 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:13 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:13 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:08:13 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:08:13 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:08:13 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:08:15 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:15 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:08:15 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:08:15 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:08:15 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:08:25 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:25 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:08:25 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:08:25 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:08:25 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:08:35 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:35 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:35 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:08:35 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:08:35 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:08:35 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:08:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:45 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:45 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:08:45 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:08:45 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:08:45 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:08:52 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:52 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:08:52 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:08:52 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:08:52 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:08:54 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:54 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:08:54 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:08:54 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"offline","isAdmin":true}
+[11-May-2025 02:08:54 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"offline","isAdmin":true}
+[11-May-2025 02:08:54 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:54 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:54 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:08:54 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:08:54 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:08:54 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:08:54 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:54 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:54 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:54 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:54 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:54 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:54 Europe/Berlin] Received request - Action: start_chat, Is Admin: true
+[11-May-2025 02:08:54 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:08:54 Europe/Berlin] Raw request data: {"action":"start_chat","user_id":"admin","name":"Admin","email":"admin@example.com","isAdmin":true}
+[11-May-2025 02:08:54 Europe/Berlin] Parsed request data: {"action":"start_chat","user_id":"admin","name":"Admin","email":"admin@example.com","isAdmin":true}
+[11-May-2025 02:08:54 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:54 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:08:55 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:09:08 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:09:08 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:09:08 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:09:08 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:09:08 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:09:09 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:09:09 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:09:09 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:09:09 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:09:09 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:09:09 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:09:09 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:09:09 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:09:09 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:09:09 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:09:14 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:09:14 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:09:14 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:09:14 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:09:14 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:09:14 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:09:22 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:09:22 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:09:22 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:09:22 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:09:22 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:09:24 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:09:24 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:09:24 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:09:24 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:09:24 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:09:24 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:09:34 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:09:34 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:09:34 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:09:34 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:09:34 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:09:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:09:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:09:44 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:09:44 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:09:44 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:09:44 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:09:44 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:09:54 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:09:54 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:09:54 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:09:54 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:09:54 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:09:54 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:10:04 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:10:04 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:10:04 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:10:04 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:10:04 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:10:14 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:10:14 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:10:14 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:10:14 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:10:14 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:10:24 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:10:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:10:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:10:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:10:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:10:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:10:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:10:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:10:54 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:11:24 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:11:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:11:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:11:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:11:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:11:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:11:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:11:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:11:54 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:12:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:12:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:12:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:12:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:12:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:12:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:12:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:12:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:13:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:13:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:13:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:13:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:13:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:13:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:13:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:13:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:14:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:14:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:14:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:14:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:14:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:14:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:14:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:14:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:15:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:15:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:15:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:15:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:15:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:15:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:15:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:15:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:16:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:16:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:16:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:16:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:16:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:16:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:16:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:16:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:17:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:17:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:17:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:17:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:17:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:17:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:17:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:17:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:18:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:18:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:18:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:18:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:18:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:18:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:18:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:18:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:19:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:19:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:19:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:19:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:19:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:19:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:19:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:19:44 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:20:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:20:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:20:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:20:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:20:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:20:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:20:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:20:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:21:23 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:21:23 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:21:23 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:21:23 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:21:23 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:21:23 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:21:23 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:21:23 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:21:23 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:21:23 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:21:23 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:21:24 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:21:24 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:21:24 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:21:24 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:21:24 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:21:26 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:21:26 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:21:26 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:21:26 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"offline","isAdmin":true}
+[11-May-2025 02:21:26 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"offline","isAdmin":true}
+[11-May-2025 02:21:37 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:21:37 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:21:37 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:21:37 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:21:37 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:21:37 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:21:37 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:21:37 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:21:37 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:21:37 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:21:37 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:21:37 Europe/Berlin] Received request - Action: start_chat, Is Admin: true
+[11-May-2025 02:21:37 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:21:37 Europe/Berlin] Raw request data: {"action":"start_chat","user_id":"admin","name":"Admin","email":"admin@example.com","isAdmin":true}
+[11-May-2025 02:21:37 Europe/Berlin] Parsed request data: {"action":"start_chat","user_id":"admin","name":"Admin","email":"admin@example.com","isAdmin":true}
+[11-May-2025 02:21:37 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:21:37 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:21:37 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:21:37 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:21:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:21:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:21:44 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:21:44 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:21:44 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:21:44 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:21:44 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:21:47 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:21:47 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:21:47 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:21:47 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:21:47 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:21:57 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:21:57 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:21:57 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:21:57 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:21:57 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:22:00 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:22:00 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:22:00 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:22:00 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:22:00 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:22:06 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:22:06 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:22:06 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:22:06 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:22:06 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:22:07 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:22:07 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:22:07 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:22:07 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:22:07 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:22:07 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:22:17 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:22:17 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:22:17 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:22:17 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:22:17 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:22:19 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:22:19 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:22:19 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:22:19 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:22:19 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:22:27 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:22:27 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:22:27 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:22:27 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:22:27 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:22:37 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:22:37 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:22:37 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:22:37 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:22:37 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:22:37 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:22:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:22:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:22:47 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:22:47 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:22:47 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:22:47 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:22:47 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:22:57 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:22:57 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:22:57 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:22:57 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:22:57 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:23:07 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:23:07 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:23:07 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:23:07 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:23:07 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:23:07 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:23:08 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:23:08 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:23:08 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:23:08 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:23:08 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:23:13 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:23:13 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:23:13 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:23:13 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:23:13 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:23:17 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:23:17 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:23:17 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:23:17 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:23:17 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:23:20 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:23:20 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:23:20 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:23:20 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:23:20 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:23:27 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:23:27 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:23:27 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:23:27 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:23:27 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:23:37 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:23:37 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:23:37 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:23:37 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:23:37 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:23:37 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:23:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:23:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:23:47 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:23:47 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:23:47 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:23:47 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:23:47 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:23:57 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:23:57 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:23:57 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:23:57 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:23:57 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:24:07 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:24:07 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:24:07 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:24:07 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:24:07 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:24:07 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:24:17 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:24:17 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:24:17 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:24:17 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:24:17 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:24:37 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:24:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:24:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:24:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:24:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:24:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:24:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:24:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:25:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:25:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:25:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:25:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:25:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:25:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:25:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:25:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:26:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:26:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:26:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:26:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:26:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:26:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:26:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:26:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:27:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:27:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:27:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:27:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:27:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:27:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:27:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:27:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:28:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:28:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:28:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:28:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:28:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:28:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:28:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:28:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:29:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:29:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:29:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:29:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:29:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:29:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:29:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:29:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:30:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:30:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:30:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:30:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:30:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:30:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:30:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:30:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:31:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:31:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:31:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:31:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:31:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:31:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:31:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:31:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:32:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:32:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:32:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:32:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:32:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:32:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:32:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:32:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:33:34 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:33:34 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:33:34 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:33:34 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:33:34 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:33:34 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:33:34 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:33:34 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:33:34 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:33:34 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:33:34 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:33:36 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:33:36 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:33:36 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:33:36 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:33:36 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:33:37 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:33:37 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:33:37 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:33:37 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:33:37 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:33:37 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:33:39 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:33:39 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:33:39 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:33:39 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:33:39 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"online","isAdmin":true}
+[11-May-2025 02:33:41 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:33:41 Europe/Berlin] Received request - Action: update_status, Is Admin: true
+[11-May-2025 02:33:41 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:33:41 Europe/Berlin] Raw request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:33:41 Europe/Berlin] Parsed request data: {"action":"update_status","user_id":"admin","status":"away","isAdmin":true}
+[11-May-2025 02:33:44 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:33:44 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:33:47 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:33:47 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:33:47 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:33:47 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:33:47 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:33:57 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:33:57 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:33:57 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:33:57 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:33:57 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:34:07 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:34:07 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:34:07 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:34:07 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:34:07 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:34:07 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:34:17 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:34:17 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:34:17 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:34:17 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:34:17 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:34:27 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:34:27 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:34:27 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:34:27 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:34:27 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:34:37 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:34:37 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:34:37 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:34:37 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:34:37 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:34:37 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:34:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:34:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:35:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:35:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:35:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:35:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:35:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:35:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:35:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:35:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:36:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:36:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:36:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:36:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:36:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:36:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:36:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:36:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:37:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:37:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:37:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:37:43 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:37:43 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:37:43 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:37:43 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:37:43 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:38:45 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:38:45 Europe/Berlin] Received request - Action: get_users, Is Admin: true
+[11-May-2025 02:38:45 Europe/Berlin] Request content type: application/json
+[11-May-2025 02:38:45 Europe/Berlin] Raw request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:38:45 Europe/Berlin] Parsed request data: {"action":"get_users","isAdmin":true}
+[11-May-2025 02:38:45 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:38:45 Europe/Berlin] Databases initialized successfully
+[11-May-2025 02:38:45 Europe/Berlin] Databases initialized successfully
